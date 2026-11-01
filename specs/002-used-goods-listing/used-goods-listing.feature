@@ -1,5 +1,5 @@
-# <feature>.feature v1.0 | AC-xx-01 ถึง AC-xx-nn | จาก UC-xx และ BR-xx
-# เปลี่ยนชื่อไฟล์เป็น <feature>.feature แล้วแทนด้วย Gherkin ของกลุ่มจากบทเรียน Acceptance Criteria
+# used-goods-listing.feature v1.0 | AC-xx-01 ถึง AC-xx-nn | จาก UC-xx และ BR-xx
+# เติมด้วย Gherkin ของกลุ่มจากบทเรียน Acceptance Criteria
 # ภาษา: ไทย ยกเว้นคำสำคัญของ Gherkin และ ID
 # ตัวอย่าง: github.com/ppsajja/baanprom-swreqspec/blob/main/specs/002-booking/booking.feature
 

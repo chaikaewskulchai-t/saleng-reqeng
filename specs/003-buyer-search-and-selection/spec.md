@@ -1,7 +1,7 @@
-# SPEC-<รหัส feature> | <ชื่อ feature> (UC-xx)
+# SPEC-003 | ระบบค้นหาและเลือกผู้รับซื้อ (UC-xx)
 
 version: 1.0 | status: baselined (B1) หรือ draft | owner: <กลุ่ม> / PO: SH-xx | date: <วันที่>
-baseline: B1 (<วันที่>) | supersedes: | related: | feature file: <feature>.feature v1.0
+baseline: B1 (<วันที่>) | supersedes: | related: | feature file: buyer-search-and-selection.feature v1.0
 Constraint กลาง: specs/000-shared/constraints.md รุ่น x.y (ถ้ามี) | mockups: UI-xx-01 ถึง UI-xx-nn (ถ้ามี)
 
 ใส่สเปกที่กลุ่มเขียนในบทเรียน Living Specification แทนไฟล์นี้ทั้งไฟล์ (โครง 11 ส่วนด้านล่างเป็นตัวช่วยตรวจว่าครบ ส่วน 12 เพิ่มเมื่อมี mockup)
